@@ -33,7 +33,7 @@ Funktionaalisia ja ei-funktionaalisia vaatimuksia ei löydy erikseen listattuina
 ##Miltä se näyttää
 Käyttöliittymästä ei ole kuvia, luonnoksia tai kuvankaappauksia.
 
-#Prosessimalli
+##Prosessimalli
 Prosessimallia kuvataan, mutta ei määritellä, sillä ihanteellista, kaikille organisaatioille toimivaa mallia ei ole.
 Resursseiksi nimetään ainoastaan ihmiset, jotka ovat mukana vaatimustenhallinnassa ja mahdollinen ulkopuolinen apu tuomaan objektiivista näkökantaa. Mukana ei löydy riskianalyysia.
 
