@@ -1,0 +1,32 @@
+Käyttötapaukset:
+
+-avata sovellus
+-sulkea sovellus
+-syöttää nimimerkki
+-vaihtaa nimimerkki
+-selata käyttäjähistoriaa
+-katsoa kävijät nyt
+-katsoa kävijämäärä tänään
+-katsoa kävijämäärät tunnettain viivadiagrammista
+-katsoa kävijämäärät viimeisen 5vrkn ajalta palkkidiagrammista
+-selata UniCafen päivän menua
+-selata UniCafen viikon menua
+-seurata still-kuvan muuttumista
+-antaa palautetta tähdillä 1-5
+-antaa palautetta kommentilla
+-lukea palautekommentteja
+-katsoa tähtiarvosteluja
+- laittaa ilmoitukset pois päältä
+-laittaa ilmoitukset päälle
+-vaihtaa teemaa
+-lukea ohjeita
+-vaihtaa kielen asetuksista
+-vastaanottaa virheilmoituksia
+-lukee virheilmoituksia
+-korjaa bugit
+
+Käyttäjäryhmät:
+Sovelluksen käyttäjiä ovat Metropolia Ammattikorkeakoulun opiskelijat ja sen henkilökunta, 
+ja heillä kaikilla on samanlaiset käyttötapaukset. Sovelluksen ylläpitäjät huolehtivat taas 
+sovelluksen toimimisesta. 
+
