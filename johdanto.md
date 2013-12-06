@@ -1,8 +1,8 @@
-1.	Johdanto
-Projektina oli tehdä vaatimusmäärittely Metropolia Ammattikorkeakoulun tilaamalle sovellukselle, 
-josta koulun opiskelijat ja henkilökunta näkisivät Metropolian kampusten ruokaloiden ruuhkatilanteen 
-sekä ruokalistan kätevästi ja nopeasti. Lisäksi sovelluksesta haluttiin myös interaktiivinen, joten sovellukseen 
-kehitettiin myös palautteen anto mahdollisuus ruuasta. Näin koulun opiskelijat ja henkilökunta voivat helposti 
-arvioida milloin kannattaa mennä syömään ja mitä voisi syödä. Myös ruokaloiden kävijämääriä pystyy selaamaan, 
-mistä on hyötyä erityisesti ruokalan henkilökunnalle, jotka pystyvät täten paremmin arvioimaan esimerkiksi minä 
-kellonaikoina ja päivinä menee eniten ruokaa keskimäärin. 
+1.	
+Projektina oli tehdï¿½ vaatimusmï¿½ï¿½rittely Metropolia Ammattikorkeakoulun tilaamalle sovellukselle, 
+josta koulun opiskelijat ja henkilï¿½kunta nï¿½kisivï¿½t Metropolian kampusten ruokaloiden ruuhkatilanteen 
+sekï¿½ ruokalistan kï¿½tevï¿½sti ja nopeasti. Lisï¿½ksi sovelluksesta haluttiin myï¿½s interaktiivinen, joten sovellukseen 
+kehitettiin myï¿½s palautteen anto mahdollisuus ruuasta. Nï¿½in koulun opiskelijat ja henkilï¿½kunta voivat helposti 
+arvioida milloin kannattaa mennï¿½ syï¿½mï¿½ï¿½n ja mitï¿½ voisi syï¿½dï¿½. Myï¿½s ruokaloiden kï¿½vijï¿½mï¿½ï¿½riï¿½ pystyy selaamaan, 
+mistï¿½ on hyï¿½tyï¿½ erityisesti ruokalan henkilï¿½kunnalle, jotka pystyvï¿½t tï¿½ten paremmin arvioimaan esimerkiksi minï¿½ 
+kellonaikoina ja pï¿½ivinï¿½ menee eniten ruokaa keskimï¿½ï¿½rin. 
