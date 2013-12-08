@@ -15,7 +15,7 @@ Työnjako dokumentoinnissa:
 	- Marika
 	
 Työtunnit:
-- Jenna
+- Jenna 7h
 - Mari
 - Marika 8h
 - Toni 6h
