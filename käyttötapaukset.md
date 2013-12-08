@@ -30,4 +30,4 @@ Sovelluksen käyttäjiä ovat Metropolia Ammattikorkeakoulun opiskelijat ja sen 
 ja heillä kaikilla on samanlaiset käyttötapaukset. Sovelluksen ylläpitäjät huolehtivat taas 
 sovelluksen toimimisesta. 
 
-![Vuokaavio] (https://github.com/marikaas/JMM/blob/master/nimimerkkivuokaavio.jpg)
+![Vuokaavio] (https://github.com/marikaas/JMM/blob/master/nimimerkkivuokaavio.jpg?raw=true)
