@@ -1,4 +1,6 @@
-﻿Toiminnaliset vatimukset:
+#Vaatimukset
+
+Toiminnalliset vaatimukset:
 
 1. Kävijämäärät saadaan ruokalan WLAN tukipisteen keräämien sijaintitietojen perusteella
 2. Kävijämäärien tulee päivittyä etusivulle 30 sek välein
