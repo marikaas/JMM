@@ -1,5 +1,5 @@
 # Ruokala-app 
-Mobiilisovellus Metropolian ruokalan ruuhkaisuuden ja ruokalistan tarkastelemiseen, sekä palautteen antoon"
+Mobiilisovellus Metropolian ruokalan ruuhkaisuuden ja ruokalistan tarkastelemiseen, sekä palautteen antoon
 
 - Ryhmän nimi: JMM
 - Ryhmän jäsenet 
