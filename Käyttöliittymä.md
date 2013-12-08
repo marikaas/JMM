@@ -25,23 +25,25 @@ Kävijähistoria-kaava
 - Kävijämäärä tunneittain viivadiagrammilla
 - Päivittäiset kävijämäärät palkkidiagrammilla
 - Paluu-nappi
+
 Ruokalista
 - Logo
 - Joka päivälle pääruoat, lisukkeet ja jälkiruuat
 - Näkee kuluvan sekä seuraavan viikon ruokalistat
 - Paluu-nappi
+
 Palaute
 - Logo
 - Arvostelu: Viisi tähtikuviota, joista klikattava, sekä vasemmanpuoliset kuviot täyttyvät keltaisella värillä
 - Teksti-ikkuna
 - Arvostele-nappi
 - Paluu-nappi
-->Palaute annettu
-- Teksti
-- Paluu-nappi
+  - Palaute annettu
+      - Teksti
+      - Paluu-nappi
+      
 Asetukset
 - valintaruutu ja Näytä ilmoitukset
 - Teema-valikko
 - Ohjeet-nappi
 - Vaihda nimimerkki
-- Language
