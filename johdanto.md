@@ -7,3 +7,5 @@ kehitettiin myös palautteen anto mahdollisuus ruuasta. Näin koulun opiskelijat
 arvioida milloin kannattaa mennä syömään ja mitä voisi syödä. Myös ruokaloiden kävijämääriä pystyy selaamaan, 
 mistä on hyötyä erityisesti ruokalan henkilökunnalle, jotka pystyvät täten paremmin arvioimaan esimerkiksi minä 
 kellonaikoina ja päivinä menee eniten ruokaa keskimäärin. 
+
+Sovellus on laitteeseen ladattava mobiilisovellus ja on pääasiallisesti suunnattu mobiili-/tablettilaitteelle kaikille alustoille (Android, iOS, Windows).
