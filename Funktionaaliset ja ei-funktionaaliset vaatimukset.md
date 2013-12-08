@@ -12,7 +12,6 @@
 8. Sovelluksen päivitykset näkyvät ilmoituksena käyttäjälle
 9. Ilmoitukset voi ottaa pois käytöstä Asetukset -välilehdestä rastittamalla pois Näytä ilmoitukset
 10. Kielen voi muuttaa Asetukset -välilehden kohdasta language, valintoina suomi tai englanti
-11. Sovelluksen käyttöohjeet  löytyvät Asetukset -välilehdeltä kohdasta Ohjeet (onko toiminnallisuus?)
 12. Etusivulla näkyvä still-kuva muuttuu tämän hetkisten kävijöiden mukaan.
 13. Kun Kävijöitä nyt -luku on 30 tai vähemmän, etusivun kuva on tyhjästä ruokalasta
 14. Kun Kävijöitä nyt -luku on 31-70, etusivun kuva on ruokalasta, joka on puolillaan ihmisiä
