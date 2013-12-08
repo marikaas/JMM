@@ -82,4 +82,4 @@ Lisäksi käyttöliittymä on suunniteltu niin, että siinä ei ole turhia nappe
 sovellusta olisi näin helppo käyttää. Helppokäyttöisyyttä lisää myös se, kun sovellusta voidaan käyttää erilaisilla moniililaitteilla niiden erilaisista käyttöjärjestelmistä huolimatta.
 
 Jotta sovellus toimisi tehokkaasti suurista käyttäjämääristä huolimatta, 
-tulee käyttöliittymä pitää mahdollisimman kevyenä. Sovellus on turvallinen ja luotettava käyttäjälle, koska käyttäjästä tallennetaan tietokantaan ainoastaan vain haluttu nimimerkki,ja sekin tallennetaan kantaan salasan taakse.
+tulee käyttöliittymä pitää mahdollisimman kevyenä. Sovellus on turvallinen ja luotettava käyttäjälle, koska käyttäjästä tallennetaan tietokantaan ainoastaan vain haluttu nimimerkki,ja sekin tallennetaan kantaan salasanan taakse.
