@@ -1,7 +1,7 @@
 #Käyttötapaukset
 
--avata sovellus
--sulkea sovellus
+- avata sovellus
+- sulkea sovellus
 -syöttää nimimerkki
 -vaihtaa nimimerkki
 -selata käyttäjähistoriaa
