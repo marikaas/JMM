@@ -1,6 +1,6 @@
 ﻿#Käyttöliittymä
 
-![Käyttöliittymä]
+![Käyttöliittymä](https://github.com/marikaas/JMM/blob/master/mobiili.jpg?raw=true)
 
 - Etusivu-näkymä: Sovelluksen logo, jonka alla still-kuva ruokalasta. Still-kuva muuttuu kävijämäärän muuttuessa. Kävijät tällä hetkellä alle 10 niin silloin kuva on tyhjä. 10-50 kuvassa viereinen kuva ja kun yli 50 niin ruuhkainen kuva. Kieltä voi vaihtaa etusivulta käsin helposti.
 - Kävijähistoria-näkymä: Käyttäjä voi tarkastella kävijämäärä tunneittain-viivadiagrammia ja päivittäiset kävijämäärät-palkkidiagrammia viimeisen 5vrk ajalta
