@@ -1,4 +1,5 @@
-﻿1.	
+# Johdanto
+
 Projektina oli tehdä vaatimusmäärittely Metropolia Ammattikorkeakoulun tilaamalle sovellukselle, 
 josta koulun opiskelijat ja henkilökunta näkisivät Metropolian kampusten ruokaloiden ruuhkatilanteen 
 sekä ruokalistan kätevästi ja nopeasti. Lisäksi sovelluksesta haluttiin myös interaktiivinen, joten sovellukseen 
