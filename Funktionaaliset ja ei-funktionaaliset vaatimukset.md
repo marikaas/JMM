@@ -75,14 +75,7 @@
 
 
 
-* kuinka taata järjestelmän helppokäyttöisyys?
-Jotta sovelluksesta saataisiin helppokäyttöinen, tulee sitä testata käyttäjillä ennen sovelluksen käyttöönottoa. 
-Tavoitteena olisi että käyttäjä (18-35 vuotias, älypuhelin tuttu) oppimisi sovelluksen käyttämisen maksimissaan kymmenessä minuutissa.
-
-* kuinka taata järjestelmän luotettavuus? Listaa mahdolliset 
-järjestelmävirheet ja kuinka niistä toivutaan
-
-
-
-* järjestelmälläsi on paljon käyttäjiä, kuinka taata että 
-järjestelmässä on riittävästi tehoja? 
+Jotta sovelluksesta saataisiin helppokäyttöinen, tulee sitä testata käyttäjillä ennen sovelluksen käyttöönottoa useaan kertaan, jotta mahdolliset ongelmat tulisivat esiin ajoissa. 
+Tavoitteena olisi että käyttäjä (18-50 vuotias Metropolian opiskelija/henkilökunnan jäsen, älypuhelin tuttu) oppisi sovelluksen käyttämisen maksimissaan kymmenessä minuutissa.
+Lisäksi käyttöliittymä on suunniteltu niin, että siinä ei ole turhia nappeja, ja napit joita käytetään, on kuvattu tutuilla logoilla, jotta käyttöliittymä säilyisi selkeänä 
+sovellusta olisi näin helppo käyttää.
