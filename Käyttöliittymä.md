@@ -12,6 +12,7 @@
 
 Palikoita klikkaamalla uudet sivut siirtyvät etusivunäkymän päälle eri suunnista; kävijähistoria-kaavio ylhäältä, asetukset alhaalta, menu vasemmalta.. Uudelta sivulta pääsee ainoastaan Paluu-nappulasta takaisin etusivulle, jolloin uusi sivu palaa sinne mistä tulikin.
 
+![Käyttöliittymä](https://github.com/marikaas/JMM/blob/master/k%C3%A4ytt%C3%B6liittym%C3%A4.jpg?raw=true)
 Etusivu
 - Logo
 - Ruokala-kuva
