@@ -1,0 +1,43 @@
+2. Käyttöliitymän näkymät (User interface, views), oma projektiaihe. Voi tehdä pienryhmissä.
+1. Listaa järjestelmän käyttöliittymän olennaisimmat näkymät
+2. Kuvaile näkymät: mitä näkymällä tehdään ja mitä siinä näkyy? Järkevintä (ja helpointa) on piirtää kuva käyttöliittymästä (näköismalli, mockup, wireframe). Voit käyttää Painttia, Visiota, Moqupsia tai vaikka kynää ja ruutupaperia.
+3. Kerro näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
+4. Listaa jokaista näkymää kohti edellytettävä tietosisältö (data).
+1. Etusivu, kävijähistorianäkymä, ruokalistanäkymä, palautenäkymä, asetusnäkymä, kielivalinta (suomi tai englanti)
+2. Etusivu: Sovelluksen logo, jonka alla still-kuva ruokalasta. Still-kuva muuttuu kävijämäärän muuttuessa. Kävijät tällä hetkellä alle 10 niin silloin kuva on tyhjä. 10-50 kuvassa viereinen kuva ja kun yli 50 niin ruuhkainen kuva.
+Kävijähistoria-ikkuna: Käyttäjä voi tarkastella kävijämäärä tunneittain-viivadiagrammia ja päivittäiset kävijämäärät-palkkidiagrammia viimeisen 5vrk ajalta
+Ruokalista-ikkuna: Käyttäjä voi selata UniCafen menua, viikon päivittäiset pääruoat ma-pe
+Palaute-ikkuna: Käyttäjä voi arvostella päivän ruoat tähdillä 1-5 ja lisätä palautteeseen vapaan kommentin.
+Asetukset-ikkuna: Käyttäjä voi valita ilmoitukset päälle/pois, vaihtaa teemaa ja tarkastella sovelluksen ohjeita tai tietoja.
+3. Palikoita klikkaamalla uudet sivut siirtyvät etusivunäkymän päälle eri suunnista; kävijähistoria-kaavio ylhäältä, asetukset alhaalta, menu vasemmalta.. Uudelta sivulta pääsee ainoastaan Paluu-nappulasta takaisin etusivulle, jolloin uusi sivu palaa sinne mistä tulikin.
+4. Etusivu
+- Logo
+- Ruokala-kuva
+- Teksti
+- Luvut (määrittyvät sijaintinsa jakavien puhelinten lukumäärällä)
+- Neljä sivuikkuna-nappia
+Kävijähistoria-kaava
+- Logo
+- Kävijämäärä tunneittain viivadiagrammilla
+- Päivittäiset kävijämäärät palkkidiagrammilla
+- Paluu-nappi
+Ruokalista
+- Logo
+- Joka päivälle pääruoat, lisukkeet ja jälkiruuat
+- Näkee kuluvan sekä seuraavan viikon ruokalistat
+- Paluu-nappi
+Palaute
+- Logo
+- Arvostelu: Viisi tähtikuviota, joista klikattava, sekä vasemmanpuoliset kuviot täyttyvät keltaisella värillä
+- Teksti-ikkuna
+- Arvostele-nappi
+- Paluu-nappi
+->Palaute annettu
+- Teksti
+- Paluu-nappi
+Asetukset
+- valintaruutu ja Näytä ilmoitukset
+- Teema-valikko
+- Ohjeet-nappi
+- Vaihda nimimerkki
+- Language
