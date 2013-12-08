@@ -37,4 +37,7 @@ sovelluksen toimimisesta.
 #Vuokaavio
 ![Vuokaavio] (https://github.com/marikaas/JMM/blob/master/nimimerkkivuokaavio.jpg?raw=true)
 
+#Käyttötapausskenaario
+![Käyttötapausskenaario] (https://github.com/marikaas/JMM/blob/master/kayttotapausskenaario.jpg?raw=true)
+
 
