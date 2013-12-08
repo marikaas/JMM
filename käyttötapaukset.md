@@ -25,10 +25,16 @@
 - lukee virheilmoituksia
 - korjaa bugit
 
+
 #Käyttäjäryhmät
 Sovelluksen käyttäjiä ovat Metropolia Ammattikorkeakoulun opiskelijat ja sen henkilökunta, 
 ja heillä kaikilla on samanlaiset käyttötapaukset. Sovelluksen ylläpitäjät huolehtivat taas 
 sovelluksen toimimisesta. 
 
+#Käyttötapauskaavio
+![Käyttötapauskaavio] (https://github.com/marikaas/JMM/blob/master/käyttötapauskaavio.jpg?raw=true)
+
 #Vuokaavio
 ![Vuokaavio] (https://github.com/marikaas/JMM/blob/master/nimimerkkivuokaavio.jpg?raw=true)
+
+
