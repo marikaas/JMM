@@ -1,6 +1,6 @@
 #Vaatimukset
 
-Toiminnalliset vaatimukset:
+#Funktionaaliset vaatimukset:
 
 1. Kävijämäärät saadaan ruokalan WLAN tukipisteen keräämien sijaintitietojen perusteella
 2. Kävijämäärien tulee päivittyä etusivulle 30 sek välein
@@ -54,7 +54,7 @@ Toiminnalliset vaatimukset:
 
 
  
-Ei-funktionaaliset-vaatimukset:
+#Ei-funktionaaliset-vaatimukset:
 
 1. Sovellusta tulee pystyä käyttämään yhtäaikaa 17 000 käyttäjää
 2. Sovelluksen tulee toimia Android-, Windows-, sekä iOS -käyttöjärjestelmillä
