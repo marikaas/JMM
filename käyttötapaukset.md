@@ -1,23 +1,23 @@
-#K�ytt�tapaukset:
+#Käyttötapaukset
 
 -avata sovellus
 -sulkea sovellus
--sy�tt�� nimimerkki
+-syöttää nimimerkki
 -vaihtaa nimimerkki
--selata k�ytt�j�historiaa
--katsoa k�vij�t nyt
--katsoa k�vij�m��r� t�n��n
--katsoa k�vij�m��r�t tunnettain viivadiagrammista
--katsoa k�vij�m��r�t viimeisen 5vrkn ajalta palkkidiagrammista
--selata UniCafen p�iv�n menua
+-selata käyttäjähistoriaa
+-katsoa kävijät nyt
+-katsoa kävijämäärät tänään
+-katsoa kävijämäärät tunnettain viivadiagrammista
+-katsoa kävijämäärät viimeisen 5vrkn ajalta palkkidiagrammista
+-selata UniCafen päivän menua
 -selata UniCafen viikon menua
 -seurata still-kuvan muuttumista
--antaa palautetta t�hdill� 1-5
+-antaa palautetta tähdillä 1-5
 -antaa palautetta kommentilla
 -lukea palautekommentteja
--katsoa t�htiarvosteluja
-- laittaa ilmoitukset pois p��lt�
--laittaa ilmoitukset p��lle
+-katsoa tähtiarvosteluja
+-laittaa ilmoitukset pois päältä
+-laittaa ilmoitukset päälle
 -vaihtaa teemaa
 -lukea ohjeita
 -vaihtaa kielen asetuksista
@@ -25,8 +25,8 @@
 -lukee virheilmoituksia
 -korjaa bugit
 
-K�ytt�j�ryhm�t:
-Sovelluksen k�ytt�ji� ovat Metropolia Ammattikorkeakoulun opiskelijat ja sen henkil�kunta, 
-ja heill� kaikilla on samanlaiset k�ytt�tapaukset. Sovelluksen yll�pit�j�t huolehtivat taas 
+#Käyttäjäryhmät
+Sovelluksen käyttäjiä ovat Metropolia Ammattikorkeakoulun opiskelijat ja sen henkilökunta, 
+ja heillä kaikilla on samanlaiset käyttötapaukset. Sovelluksen ylläpitäjät huolehtivat taas 
 sovelluksen toimimisesta. 
 
