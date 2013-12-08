@@ -1,23 +1,23 @@
-Käyttötapaukset:
+#Kï¿½yttï¿½tapaukset:
 
 -avata sovellus
 -sulkea sovellus
--syöttää nimimerkki
+-syï¿½ttï¿½ï¿½ nimimerkki
 -vaihtaa nimimerkki
--selata käyttäjähistoriaa
--katsoa kävijät nyt
--katsoa kävijämäärä tänään
--katsoa kävijämäärät tunnettain viivadiagrammista
--katsoa kävijämäärät viimeisen 5vrkn ajalta palkkidiagrammista
--selata UniCafen päivän menua
+-selata kï¿½yttï¿½jï¿½historiaa
+-katsoa kï¿½vijï¿½t nyt
+-katsoa kï¿½vijï¿½mï¿½ï¿½rï¿½ tï¿½nï¿½ï¿½n
+-katsoa kï¿½vijï¿½mï¿½ï¿½rï¿½t tunnettain viivadiagrammista
+-katsoa kï¿½vijï¿½mï¿½ï¿½rï¿½t viimeisen 5vrkn ajalta palkkidiagrammista
+-selata UniCafen pï¿½ivï¿½n menua
 -selata UniCafen viikon menua
 -seurata still-kuvan muuttumista
--antaa palautetta tähdillä 1-5
+-antaa palautetta tï¿½hdillï¿½ 1-5
 -antaa palautetta kommentilla
 -lukea palautekommentteja
--katsoa tähtiarvosteluja
-- laittaa ilmoitukset pois päältä
--laittaa ilmoitukset päälle
+-katsoa tï¿½htiarvosteluja
+- laittaa ilmoitukset pois pï¿½ï¿½ltï¿½
+-laittaa ilmoitukset pï¿½ï¿½lle
 -vaihtaa teemaa
 -lukea ohjeita
 -vaihtaa kielen asetuksista
@@ -25,8 +25,8 @@ Käyttötapaukset:
 -lukee virheilmoituksia
 -korjaa bugit
 
-Käyttäjäryhmät:
-Sovelluksen käyttäjiä ovat Metropolia Ammattikorkeakoulun opiskelijat ja sen henkilökunta, 
-ja heillä kaikilla on samanlaiset käyttötapaukset. Sovelluksen ylläpitäjät huolehtivat taas 
+Kï¿½yttï¿½jï¿½ryhmï¿½t:
+Sovelluksen kï¿½yttï¿½jiï¿½ ovat Metropolia Ammattikorkeakoulun opiskelijat ja sen henkilï¿½kunta, 
+ja heillï¿½ kaikilla on samanlaiset kï¿½yttï¿½tapaukset. Sovelluksen yllï¿½pitï¿½jï¿½t huolehtivat taas 
 sovelluksen toimimisesta. 
 
